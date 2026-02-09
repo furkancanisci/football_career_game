@@ -1,0 +1,654 @@
+{
+  "clubs": [
+    {
+      "id": "GS",
+      "name": "Galatasaray SK",
+      "prestige": 90,
+      "finances": {
+        "transfer_budget_euro": 25000000,
+        "wage_budget_euro": 35000000,
+        "financial_status": "Powerhouse"
+      },
+      "club_culture": {
+        "fan_pressure": 95,
+        "board_patience": 40,
+        "chaos_factor": 75,
+        "identity": "Cim Bom - Historic & Demanding"
+      },
+      "squad": [
+        {"name": "Uğurcan Çakır", "role": "GK", "skill": 84, "traits": ["Leader", "Reliable"], "chaos_trigger": "Defensive Errors"},
+        {"name": "Günay Güvenç", "role": "GK", "skill": 76, "traits": ["Team Player"], "chaos_trigger": "Bench Duty"},
+        {"name": "Davinson Sánchez", "role": "CB", "skill": 85, "traits": ["Aggressive", "Elite"], "chaos_trigger": "Yellow Cards"},
+        {"name": "Wilfried Singo", "role": "CB/RB", "skill": 82, "traits": ["Physical"], "chaos_trigger": "Tactical Changes"},
+        {"name": "Abdülkerim Bardakcı", "role": "CB", "skill": 80, "traits": ["Warrior", "Local"], "chaos_trigger": "Media Criticism"},
+        {"name": "Ismail Jakobs", "role": "LB", "skill": 78, "traits": ["Speed"], "chaos_trigger": "Injuries"},
+        {"name": "Eren Elmalı", "role": "LB", "skill": 76, "traits": ["Hard Worker"], "chaos_trigger": "Competition"},
+        {"name": "Sacha Boey", "role": "RB", "skill": 83, "traits": ["Engine"], "chaos_trigger": "Transfer Offers"},
+        {"name": "Lucas Torreira", "role": "CDM", "skill": 86, "traits": ["Aggressive", "Engine"], "chaos_trigger": "Midfield Support"},
+        {"name": "Gabriel Sara", "role": "CM", "skill": 84, "traits": ["Playmaker"], "chaos_trigger": "Low Possession"},
+        {"name": "İlkay Gündoğan", "role": "CM", "skill": 85, "traits": ["Legend", "Vision"], "chaos_trigger": "Low Game Tempo"},
+        {"name": "Mario Lemina", "role": "CDM", "skill": 80, "traits": ["Strong"], "chaos_trigger": "Fitness Issues"},
+        {"name": "Yunus Akgün", "role": "RW", "skill": 81, "traits": ["Dribbler"], "chaos_trigger": "Lack of Confidence"},
+        {"name": "Roland Sallai", "role": "RW", "skill": 79, "traits": ["Versatile"], "chaos_trigger": "Rotation"},
+        {"name": "Barış Alper Yılmaz", "role": "LW/RW", "skill": 83, "traits": ["Power", "Unstoppable"], "chaos_trigger": "Tactical Restrictions"},
+        {"name": "Noa Lang", "role": "LW", "skill": 82, "traits": ["Showman", "Provocative"], "chaos_trigger": "Substituted Early"},
+        {"name": "Leroy Sané", "role": "RW", "skill": 87, "traits": ["Elite Speed", "Ego"], "chaos_trigger": "Personal Performance"},
+        {"name": "Mauro Icardi", "role": "ST", "skill": 88, "traits": ["Finisher", "Clutch"], "chaos_trigger": "Family/Private Life"},
+        {"name": "Victor Osimhen", "role": "ST", "skill": 91, "traits": ["World Class", "Target Man"], "chaos_trigger": "No Service"}
+      ]
+    },
+    {
+      "id": "FB",
+      "name": "Fenerbahçe SK",
+      "prestige": 89,
+      "finances": {
+        "transfer_budget_euro": 22000000,
+        "wage_budget_euro": 33000000,
+        "financial_status": "Investment-Backed"
+      },
+      "club_culture": {
+        "fan_pressure": 91,
+        "board_patience": 42,
+        "chaos_factor": 78,
+        "identity": "Yellow Canaries - Passionate & Ambitious"
+      },
+      "squad": [
+        {"name": "Ederson", "role": "GK", "skill": 90, "traits": ["Playmaker GK", "Calm"], "chaos_trigger": "Team Defense"},
+        {"name": "Dominik Livakovic", "role": "GK", "skill": 83, "traits": ["Reflexes"], "chaos_trigger": "Goal Conceded"},
+        {"name": "Milan Škriniar", "role": "CB", "skill": 86, "traits": ["Wall", "Stoic"], "chaos_trigger": "Slow Partners"},
+        {"name": "Çağlar Söyüncü", "role": "CB", "skill": 81, "traits": ["Aggressive", "Local"], "chaos_trigger": "Referee Calls"},
+        {"name": "Rodrigo Becão", "role": "CB", "skill": 80, "traits": ["Bully"], "chaos_trigger": "Opponent Provocation"},
+        {"name": "Jayden Oosterwolde", "role": "LB/CB", "skill": 81, "traits": ["Athlete"], "chaos_trigger": "Position Change"},
+        {"name": "Mert Müldür", "role": "RB/LB", "skill": 77, "traits": ["Loyal"], "chaos_trigger": "Bench Rotation"},
+        {"name": "Archie Brown", "role": "LB", "skill": 78, "traits": ["Offensive LB"], "chaos_trigger": "Defensive Duties"},
+        {"name": "İsmail Yüksek", "role": "CDM", "skill": 82, "traits": ["Workrate", "Tackler"], "chaos_trigger": "Bad Passes"},
+        {"name": "Fred", "role": "CM", "skill": 85, "traits": ["Dynamic", "Engine"], "chaos_trigger": "Ref Decisions"},
+        {"name": "Sebastian Szymański", "role": "CAM", "skill": 83, "traits": ["Pressing", "Long Shot"], "chaos_trigger": "Goal Drought"},
+        {"name": "Anderson Talisca", "role": "CAM", "skill": 87, "traits": ["Free-kick Specialist", "Ego"], "chaos_trigger": "Coach Criticism"},
+        {"name": "İrfan Can Kahveci", "role": "RW/CAM", "skill": 82, "traits": ["Magician", "Temperamental"], "chaos_trigger": "Early Sub"},
+        {"name": "Kerem Aktürkoğlu", "role": "LW", "skill": 83, "traits": ["Speed", "Ambitious"], "chaos_trigger": "Fan Reaction"},
+        {"name": "Marco Asensio", "role": "RW/LW", "skill": 84, "traits": ["Technique"], "chaos_trigger": "Low Tempo"},
+        {"name": "Youssef En-Nesyri", "role": "ST", "skill": 82, "traits": ["Aerial Threat"], "chaos_trigger": "Missed Chances"},
+        {"name": "Jhon Durán", "role": "ST", "skill": 84, "traits": ["Power", "Hot Headed"], "chaos_trigger": "Bench Duty"}
+      ]
+    },
+    {
+      "id": "BJK",
+      "name": "Beşiktaş JK",
+      "prestige": 88,
+      "finances": {
+        "transfer_budget_euro": 12000000,
+        "wage_budget_euro": 32000000,
+        "financial_status": "Stable"
+      },
+      "club_culture": {
+        "fan_pressure": 89,
+        "board_patience": 45,
+        "chaos_factor": 70,
+        "identity": "The Black Eagles - Passionate & Resilient"
+      },
+      "squad": [
+        {"name": "Mert Günok", "role": "GK", "skill": 82, "traits": ["Experienced", "Leader"], "chaos_trigger": "Defensive Disorganization"},
+        {"name": "Felix Uduokhai", "role": "CB", "skill": 80, "traits": ["Reliable"], "chaos_trigger": "High Defensive Line"},
+        {"name": "Gabriel Paulista", "role": "CB", "skill": 81, "traits": ["Aggressive", "Warrior"], "chaos_trigger": "Injury Prone"},
+        {"name": "Arthur Masuaku", "role": "LB", "skill": 79, "traits": ["Dribbler"], "chaos_trigger": "Tactical Discipline"},
+        {"name": "Jonas Svensson", "role": "RB", "skill": 77, "traits": ["Workrate"], "chaos_trigger": "Being Outpaced"},
+        {"name": "Gedson Fernandes", "role": "CM/CDM", "skill": 85, "traits": ["Engine", "Relentless"], "chaos_trigger": "Lack of Support"},
+        {"name": "Cher Ndour", "role": "CM", "skill": 78, "traits": ["Young Talent"], "chaos_trigger": "Lack of Playtime"},
+        {"name": "Al-Musrati", "role": "CDM", "skill": 81, "traits": ["Anchor"], "chaos_trigger": "Fast Transitions"},
+        {"name": "Ernest Muçi", "role": "CAM", "skill": 80, "traits": ["Long Shot Specialist"], "chaos_trigger": "Inconsistent Form"},
+        {"name": "Rafa Silva", "role": "CAM/LW", "skill": 86, "traits": ["Creative", "Speed"], "chaos_trigger": "Rough Tackles"},
+        {"name": "Milot Rashica", "role": "RW", "skill": 80, "traits": ["Hard Worker"], "chaos_trigger": "Wing Support"},
+        {"name": "Semih Kılıçsoy", "role": "ST/LW", "skill": 81, "traits": ["Wonderkid", "Power"], "chaos_trigger": "Transfer Rumors"},
+        {"name": "Ciro Immobile", "role": "ST", "skill": 84, "traits": ["Finisher", "Veteran"], "chaos_trigger": "Service Quality"},
+        {"name": "Joao Mario", "role": "CM/LM", "skill": 79, "traits": ["Technical"], "chaos_trigger": "High Intensity"}
+      ]
+    },
+    {
+      "id": "TS",
+      "name": "Trabzonspor",
+      "prestige": 84,
+      "finances": {
+        "transfer_budget_euro": 8000000,
+        "wage_budget_euro": 22000000,
+        "financial_status": "Managing"
+      },
+      "club_culture": {
+        "fan_pressure": 98,
+        "board_patience": 30,
+        "chaos_factor": 85,
+        "identity": "Storm of the Black Sea - Emotional & Volatile"
+      },
+      "squad": [
+        {"name": "Doğan Alemdar", "role": "GK", "skill": 78, "traits": ["Reflexes"], "chaos_trigger": "Pressure Games"},
+        {"name": "Stefan Savic", "role": "CB", "skill": 81, "traits": ["Stoic", "Hard Tackler"], "chaos_trigger": "Team Discipline"},
+        {"name": "Batista Mendy", "role": "CB/CDM", "skill": 82, "traits": ["Physical Monster"], "chaos_trigger": "Position Ambiguity"},
+        {"name": "Eren Elmalı", "role": "LB", "skill": 77, "traits": ["Endurance"], "chaos_trigger": "Criticism"},
+        {"name": "Pedro Malheiro", "role": "RB", "skill": 76, "traits": ["Attacking Wingback"], "chaos_trigger": "Defensive Errors"},
+        {"name": "Okay Yokuşlu", "role": "CDM", "skill": 79, "traits": ["Experienced"], "chaos_trigger": "Referee Calls"},
+        {"name": "John Lundstram", "role": "CM", "skill": 77, "traits": ["Fighter"], "chaos_trigger": "Slow Tempo"},
+        {"name": "Enis Bardhi", "role": "CAM", "skill": 78, "traits": ["Set Piece Specialist"], "chaos_trigger": "Bench Duty"},
+        {"name": "Anthony Nwakaeme", "role": "LW", "skill": 79, "traits": ["Skillful", "Fan Favorite"], "chaos_trigger": "Physical Fatigue"},
+        {"name": "Edin Višća", "role": "RW", "skill": 80, "traits": ["Legend", "Professional"], "chaos_trigger": "Losing Streak"},
+        {"name": "Simon Banza", "role": "ST", "skill": 82, "traits": ["Target Man"], "chaos_trigger": "Lack of Crosses"},
+        {"name": "Denis Drăguș", "role": "ST/LW", "skill": 79, "traits": ["Direct"], "chaos_trigger": "Tactical Role"},
+        {"name": "Cihan Çanak", "role": "CAM/RW", "skill": 75, "traits": ["Young Talent"], "chaos_trigger": "High Expectations"}
+      ]
+    },
+    {
+      "id": "EYUP",
+      "name": "ikas Eyüpspor",
+      "prestige": 75,
+      "squad": [
+        {"name": "Jankat Yılmaz", "role": "GK", "skill": 75, "traits": ["Prospect"], "chaos_trigger": "High Stakes Games"},
+        {"name": "Berke Özer", "role": "GK", "skill": 76, "traits": ["Reflexes"], "chaos_trigger": "Bench Duty"},
+        {"name": "Jerome Onguene", "role": "CB", "skill": 77, "traits": ["Physical"], "chaos_trigger": "Tactical Errors"},
+        {"name": "Ruben Vezo", "role": "CB", "skill": 78, "traits": ["Experienced"], "chaos_trigger": "Low Team Tempo"},
+        {"name": "Léo Dubois", "role": "RB/LB", "skill": 79, "traits": ["Professional"], "chaos_trigger": "Position Change"},
+        {"name": "Umut Meraş", "role": "LB", "skill": 75, "traits": ["Experienced"], "chaos_trigger": "Loss of Pace"},
+        {"name": "Calegari", "role": "RB", "skill": 76, "traits": ["Modern RB"], "chaos_trigger": "Adaptation"},
+        {"name": "Robin Yalçın", "role": "CDM/CB", "skill": 74, "traits": ["Utility Player"], "chaos_trigger": "Rotation"},
+        {"name": "Taşkın İlter", "role": "CDM", "skill": 73, "traits": ["Steady"], "chaos_trigger": "Referee Pressure"},
+        {"name": "Shelvey", "role": "CM", "skill": 78, "traits": ["Visionary", "Hot Headed"], "chaos_trigger": "Referee Calls"},
+        {"name": "Emre Akbaba", "role": "CAM", "skill": 79, "traits": ["Technical", "Captain"], "chaos_trigger": "Injury History"},
+        {"name": "Fredrik Midtsjø", "role": "CM", "skill": 77, "traits": ["Engine"], "chaos_trigger": "Substituted Early"},
+        {"name": "Samu Saiz", "role": "CAM", "skill": 78, "traits": ["Skilled"], "chaos_trigger": "Tactical Restrictions"},
+        {"name": "Amadou Sagna", "role": "LW", "skill": 74, "traits": ["Speed"], "chaos_trigger": "Lack of Space"},
+        {"name": "Ahmed Kutucu", "role": "RW/ST", "skill": 77, "traits": ["Hard Worker"], "chaos_trigger": "Goal Drought"},
+        {"name": "Umut Bozok", "role": "ST", "skill": 77, "traits": ["Poacher"], "chaos_trigger": "Bench Duty"},
+        {"name": "Metehan Altunbaş", "role": "ST", "skill": 72, "traits": ["Young"], "chaos_trigger": "Lack of Confidence"},
+        {"name": "Baran Ali Gezek", "role": "CM", "skill": 70, "traits": ["Potential"], "chaos_trigger": "Critical Mistakes"}
+      ]
+    },
+    {
+      "id": "IBFK",
+      "name": "RAMS Başakşehir",
+      "prestige": 82,
+      "squad": [
+        {"name": "Muhammed Şengezer", "role": "GK", "skill": 79, "traits": ["Reliable"], "chaos_trigger": "Defense Lapses"},
+        {"name": "Deniz Dilmen", "role": "GK", "skill": 72, "traits": ["Wonderkid"], "chaos_trigger": "Lack of Experience"},
+        {"name": "Leo Duarte", "role": "CB", "skill": 80, "traits": ["Stoic", "Leader"], "chaos_trigger": "Communication Breakdown"},
+        {"name": "Jerome Opoku", "role": "CB", "skill": 79, "traits": ["Tall", "Powerful"], "chaos_trigger": "Fast Attackers"},
+        {"name": "Hamza Güreler", "role": "CB", "skill": 71, "traits": ["Young Prospect"], "chaos_trigger": "Big Stage Pressure"},
+        {"name": "Christopher Operi", "role": "LB", "skill": 78, "traits": ["Wingback"], "chaos_trigger": "Defensive Duties"},
+        {"name": "Ömer Ali Şahiner", "role": "RB/RW", "skill": 77, "traits": ["Loyal", "Versatile"], "chaos_trigger": "Position Shuffle"},
+        {"name": "Onur Ergün", "role": "CDM", "skill": 74, "traits": ["Anchor"], "chaos_trigger": "High Press"},
+        {"name": "Berat Özdemir", "role": "CDM", "skill": 80, "traits": ["National"], "chaos_trigger": "Low Team Spirit"},
+        {"name": "Olivier Kemen", "role": "CM", "skill": 77, "traits": ["Physical"], "chaos_trigger": "Midfield Battle"},
+        {"name": "Amine Harit", "role": "CAM", "skill": 83, "traits": ["Elite Skill"], "chaos_trigger": "Physical Play"},
+        {"name": "Abbosbek Fayzullaev", "role": "RW", "skill": 81, "traits": ["Asian Star"], "chaos_trigger": "Jet Lag"},
+        {"name": "Berkay Özcan", "role": "CAM/CM", "skill": 78, "traits": ["Technical"], "chaos_trigger": "Lack of Consistency"},
+        {"name": "Deniz Türüç", "role": "RW", "skill": 78, "traits": ["Set Piece", "Angry"], "chaos_trigger": "Yellow Cards"},
+        {"name": "Serdar Gürler", "role": "LW", "skill": 77, "traits": ["Dribbler"], "chaos_trigger": "Fan Reaction"},
+        {"name": "Eldor Shomurodov", "role": "ST", "skill": 80, "traits": ["Physical Forward"], "chaos_trigger": "Goal Drought"},
+        {"name": "Davie Selke", "role": "ST", "skill": 78, "traits": ["Aggressive"], "chaos_trigger": "Lack of Service"},
+        {"name": "Krzysztof Piątek", "role": "ST", "skill": 79, "traits": ["Gunslinger"], "chaos_trigger": "No Supply"}
+      ]
+    },
+    {
+      "id": "GOZ",
+      "name": "Göztepe SK",
+      "prestige": 78,
+      "finances": {
+        "transfer_budget_euro": 4000000,
+        "wage_budget_euro": 10000000,
+        "financial_status": "Investment-Backed"
+      },
+      "club_culture": {
+        "fan_pressure": 94,
+        "board_patience": 55,
+        "chaos_factor": 65,
+        "identity": "The Rebels - Emotional & Fearless"
+      },
+      "squad": [
+        {"name": "Mateusz Lis", "role": "GK", "skill": 79, "traits": ["Wall"], "chaos_trigger": "Defensive Communication"},
+        {"name": "Arda Özçimen", "role": "GK", "skill": 72, "traits": ["Local Boy"], "chaos_trigger": "High Pressure Mistakes"},
+        {"name": "Héliton", "role": "CB", "skill": 77, "traits": ["Physical Monster"], "chaos_trigger": "Pace Duels"},
+        {"name": "Koray Günter", "role": "CB", "skill": 76, "traits": ["Experienced"], "chaos_trigger": "Tactical Lapse"},
+        {"name": "Taha Altıkardeş", "role": "CB", "skill": 75, "traits": ["Young Talent"], "chaos_trigger": "Big Club Interest"},
+        {"name": "Djalma Silva", "role": "LB", "skill": 76, "traits": ["Offensive WB"], "chaos_trigger": "Defensive Gaps"},
+        {"name": "Nazım Sangaré", "role": "RB", "skill": 74, "traits": ["Speed"], "chaos_trigger": "Fitness Issues"},
+        {"name": "Isaac Solet", "role": "CDM", "skill": 77, "traits": ["Midfield General"], "chaos_trigger": "Aggressive Plays"},
+        {"name": "Anthony Dennis", "role": "CDM", "skill": 74, "traits": ["Prospect"], "chaos_trigger": "Inexperience"},
+        {"name": "Doğan Erdoğan", "role": "CM", "skill": 73, "traits": ["Hard Worker"], "chaos_trigger": "Referee Pressure"},
+        {"name": "David Tijanic", "role": "CAM", "skill": 76, "traits": ["Technician"], "chaos_trigger": "Low Game Tempo"},
+        {"name": "Victor Hugo", "role": "CAM", "skill": 75, "traits": ["Creative"], "chaos_trigger": "Physical Marking"},
+        {"name": "Juan", "role": "RW/ST", "skill": 76, "traits": ["Dribbler"], "chaos_trigger": "Missed Chances"},
+        {"name": "David Datro Fofana", "role": "ST", "skill": 80, "traits": ["Elite Power"], "chaos_trigger": "Lack of Service"},
+        {"name": "Rômulo Cardoso", "role": "ST", "skill": 77, "traits": ["Finisher"], "chaos_trigger": "Bench Rotation"},
+        {"name": "Kuryu Matsuki", "role": "CM", "skill": 74, "traits": ["Japanese Star"], "chaos_trigger": "Adaptation"},
+        {"name": "İsmail Köybaşı", "role": "LB", "skill": 72, "traits": ["Veteran"], "chaos_trigger": "Fan Reaction"},
+        {"name": "Kubilay Kanatsızkuş", "role": "ST", "skill": 71, "traits": ["Target Man"], "chaos_trigger": "Missed Open Goals"}
+      ]
+    },
+    {
+      "id": "SAM",
+      "name": "Samsunspor",
+      "prestige": 77,
+      "finances": {
+        "transfer_budget_euro": 3500000,
+        "wage_budget_euro": 9000000,
+        "financial_status": "Recovering"
+      },
+      "club_culture": {
+        "fan_pressure": 90,
+        "board_patience": 50,
+        "chaos_factor": 60,
+        "identity": "The Red Lightning - Loyal & Tough"
+      },
+      "squad": [
+        {"name": "Okan Kocuk", "role": "GK", "skill": 78, "traits": ["Experienced"], "chaos_trigger": "Penalty Situations"},
+        {"name": "Szumski", "role": "GK", "skill": 71, "traits": ["Professional"], "chaos_trigger": "Lack of Focus"},
+        {"name": "Rick van Drongelen", "role": "CB", "skill": 77, "traits": ["Stopper"], "chaos_trigger": "Verbal Arguments"},
+        {"name": "Lubomir Satka", "role": "CB", "skill": 76, "traits": ["Reliable"], "chaos_trigger": "Aerial Duels"},
+        {"name": "Zeki Yavru", "role": "RB/CM", "skill": 74, "traits": ["Deadball Specialist", "Leader"], "chaos_trigger": "Team Morale"},
+        {"name": "Marc Bola", "role": "LB", "skill": 75, "traits": ["Physical"], "chaos_trigger": "Pace Deficit"},
+        {"name": "Youssef Aït Bennasser", "role": "CDM", "skill": 77, "traits": ["Deep Lying Playmaker"], "chaos_trigger": "Tight Marking"},
+        {"name": "Flavien Tait", "role": "CM", "skill": 78, "traits": ["Ligue 1 Quality"], "chaos_trigger": "Game Intensity"},
+        {"name": "Olivier Ntcham", "role": "CAM", "skill": 80, "traits": ["Star Player", "Vision"], "chaos_trigger": "Team Performance"},
+        {"name": "Carlo Holse", "role": "RW/CAM", "skill": 78, "traits": ["Workrate"], "chaos_trigger": "Overload"},
+        {"name": "Arbnor Muja", "role": "LW", "skill": 76, "traits": ["Winger"], "chaos_trigger": "Tough Tackles"},
+        {"name": "Emre Kılınç", "role": "RW/LW", "skill": 76, "traits": ["Versatile"], "chaos_trigger": "Inconsistency"},
+        {"name": "Marius Mouandilmadji", "role": "ST", "skill": 76, "traits": ["Physical ST"], "chaos_trigger": "Offside Trap"},
+        {"name": "Landry Dimata", "role": "ST", "skill": 75, "traits": ["Technical Forward"], "chaos_trigger": "Injuries"},
+        {"name": "Kingsley Schindler", "role": "RB/RW", "skill": 74, "traits": ["Speed"], "chaos_trigger": "Defensive Duty"},
+        {"name": "Soner Aydoğdu", "role": "CM", "skill": 73, "traits": ["Technical"], "chaos_trigger": "Slow Game Tempo"},
+        {"name": "Ercan Kara", "role": "ST", "skill": 74, "traits": ["Box Striker"], "chaos_trigger": "Bench Duty"},
+        {"name": "Celil Yüksel", "role": "CM", "skill": 71, "traits": ["Local"], "chaos_trigger": "Substitution"}
+      ]
+    },
+    {
+      "id": "ANT",
+      "name": "Onavo Antalyaspor",
+      "prestige": 79,
+      "finances": {
+        "transfer_budget_euro": 4500000,
+        "wage_budget_euro": 11000000,
+        "financial_status": "Balanced"
+      },
+      "club_culture": {
+        "fan_pressure": 65,
+        "board_patience": 60,
+        "chaos_factor": 55,
+        "identity": "The Scorpions - Aesthetic & Tactical"
+      },
+      "squad": [
+        {"name": "Kenan Pirić", "role": "GK", "skill": 77, "traits": ["Reflexes"], "chaos_trigger": "Defensive Communication"},
+        {"name": "Abdullah Yiğiter", "role": "GK", "skill": 72, "traits": ["Young"], "chaos_trigger": "Big Mistakes"},
+        {"name": "Veysel Sarı", "role": "CB", "skill": 76, "traits": ["Veteran", "Warrior"], "chaos_trigger": "Referee Disputes"},
+        {"name": "Thalisson", "role": "CB", "skill": 75, "traits": ["Strong"], "chaos_trigger": "High Line Defense"},
+        {"name": "Güray Vural", "role": "LB", "skill": 77, "traits": ["Deadball", "Experienced"], "chaos_trigger": "Pace Duels"},
+        {"name": "Mert Yılmaz", "role": "RB", "skill": 74, "traits": ["Workrate"], "chaos_trigger": "Defensive Errors"},
+        {"name": "Erdal Rakip", "role": "CDM", "skill": 77, "traits": ["Anchor", "Aggressive"], "chaos_trigger": "Yellow Cards"},
+        {"name": "Oleksandr Petrusenko", "role": "CDM", "skill": 74, "traits": ["Hard Worker"], "chaos_trigger": "Referee Calls"},
+        {"name": "Jakub Kaluzinski", "role": "CM", "skill": 76, "traits": ["Prospect"], "chaos_trigger": "Transfer Interest"},
+        {"name": "Sam Larsson", "role": "LW", "skill": 79, "traits": ["Technician", "Star"], "chaos_trigger": "Low Intensity"},
+        {"name": "Moussa Djenepo", "role": "RW/LW", "skill": 78, "traits": ["Dribbler"], "chaos_trigger": "Discipline Issues"},
+        {"name": "Andros Townsend", "role": "RW", "skill": 77, "traits": ["Legendary Shot"], "chaos_trigger": "Fitness Issues"},
+        {"name": "Sander van de Streek", "role": "CAM", "skill": 76, "traits": ["Shadow Striker"], "chaos_trigger": "No Supply"},
+        {"name": "Adolfo Gaich", "role": "ST", "skill": 78, "traits": ["Tank", "Target Man"], "chaos_trigger": "Missed Chances"},
+        {"name": "Braian Samudio", "role": "ST/LW", "skill": 76, "traits": ["Fighter"], "chaos_trigger": "Rotation"},
+        {"name": "Bünyamin Balcı", "role": "RB", "skill": 77, "traits": ["Local Power"], "chaos_trigger": "Injury History"},
+        {"name": "Soner Dikmen", "role": "CM", "skill": 74, "traits": ["Steady"], "chaos_trigger": "Slow Tempo"},
+        {"name": "Amar Gerxhaliu", "role": "CB", "skill": 71, "traits": ["Potential"], "chaos_trigger": "Inexperience"}
+      ]
+    },
+    {
+      "id": "KON",
+      "name": "TÜMOSAN Konyaspor",
+      "prestige": 78,
+      "finances": {
+        "transfer_budget_euro": 3800000,
+        "wage_budget_euro": 9500000,
+        "financial_status": "Disciplined"
+      },
+      "club_culture": {
+        "fan_pressure": 82,
+        "board_patience": 55,
+        "chaos_factor": 50,
+        "identity": "Anatolian Eagle - Organized & Tough"
+      },
+      "squad": [
+        {"name": "Jakub Slowik", "role": "GK", "skill": 76, "traits": ["Shot Stopper"], "chaos_trigger": "One-on-Ones"},
+        {"name": "Deniz Ertaş", "role": "GK", "skill": 70, "traits": ["Wonderkid"], "chaos_trigger": "Inexperience"},
+        {"name": "Adil Demirbağ", "role": "CB", "skill": 77, "traits": ["Aggressive", "Leader"], "chaos_trigger": "Red Cards"},
+        {"name": "Uğurcan Yazğılı", "role": "CB/RB", "skill": 75, "traits": ["Versatile"], "chaos_trigger": "Position Change"},
+        {"name": "Guilherme Sitya", "role": "LB", "skill": 80, "traits": ["Cross Specialist", "Captain"], "chaos_trigger": "Team Morale"},
+        {"name": "Nikola Boranijasevic", "role": "RB", "skill": 74, "traits": ["Consistent"], "chaos_trigger": "Defensive Duty"},
+        {"name": "Riechedly Bazoer", "role": "CDM/CB", "skill": 79, "traits": ["Technician", "Vision"], "chaos_trigger": "Low Team Spirit"},
+        {"name": "Marko Jevtovic", "role": "CDM", "skill": 75, "traits": ["Anchor"], "chaos_trigger": "Midfield Pace"},
+        {"name": "Danijel Aleksic", "role": "CAM", "skill": 77, "traits": ["Experienced"], "chaos_trigger": "Fitness Issues"},
+        {"name": "Yusuf Erdoğan", "role": "RW/LW", "skill": 75, "traits": ["Speed"], "chaos_trigger": "Inconsistency"},
+        {"name": "Pedrinho", "role": "CAM", "skill": 78, "traits": ["Creative"], "chaos_trigger": "Rough Tackles"},
+        {"name": "Hamidou Keyta", "role": "LW", "skill": 74, "traits": ["Athletic"], "chaos_trigger": "Decision Making"},
+        {"name": "Umut Nayir", "role": "ST", "skill": 77, "traits": ["Aerial Power", "National"], "chaos_trigger": "Goal Drought"},
+        {"name": "Blaz Kramer", "role": "ST", "skill": 76, "traits": ["Power"], "chaos_trigger": "Bench Duty"},
+        {"name": "Alassane Ndao", "role": "RW", "skill": 75, "traits": ["Dribbler"], "chaos_trigger": "Final Ball"},
+        {"name": "Melih İbrahimoğlu", "role": "CM", "skill": 73, "traits": ["Technique"], "chaos_trigger": "Physical Play"},
+        {"name": "Yasir Subaşı", "role": "LB", "skill": 72, "traits": ["Backup"], "chaos_trigger": "Lack of Minutes"},
+        {"name": "Oğulcan Ülgün", "role": "CM", "skill": 74, "traits": ["Fighter"], "chaos_trigger": "Referee Pressure"}
+      ]
+    },
+    {
+      "id": "ALA",
+      "name": "Corendon Alanyaspor",
+      "prestige": 76,
+      "finances": {
+        "transfer_budget_euro": 3200000,
+        "wage_budget_euro": 8500000,
+        "financial_status": "Healthy"
+      },
+      "club_culture": {
+        "fan_pressure": 45,
+        "board_patience": 65,
+        "chaos_factor": 50,
+        "identity": "The Southerners - Aesthetic & Offensive"
+      },
+      "squad": [
+        {"name": "Ertuğrul Taşkıran", "role": "GK", "skill": 76, "traits": ["Experienced"], "chaos_trigger": "Defensive Communication"},
+        {"name": "Mert Furkan Bayram", "role": "GK", "skill": 71, "traits": ["Wonderkid"], "chaos_trigger": "Big Mistakes"},
+        {"name": "Fidan Aliti", "role": "CB", "skill": 75, "traits": ["Warrior"], "chaos_trigger": "Pace Duels"},
+        {"name": "Nuno Lima", "role": "CB", "skill": 74, "traits": ["Ball Playing CB"], "chaos_trigger": "High Press"},
+        {"name": "Florent Hadergjonaj", "role": "RB", "skill": 77, "traits": ["Consistent"], "chaos_trigger": "Defensive Duty"},
+        {"name": "Jure Balkovec", "role": "LB", "skill": 76, "traits": ["Free-kick Specialist"], "chaos_trigger": "Lack of Pace"},
+        {"name": "Richard", "role": "CDM", "skill": 78, "traits": ["Anchor", "Physical"], "chaos_trigger": "Yellow Cards"},
+        {"name": "Gaius Makouta", "role": "CM", "skill": 77, "traits": ["Dynamic"], "chaos_trigger": "Midfield Control"},
+        {"name": "Efecan Karaca", "role": "RW", "skill": 77, "traits": ["Legend", "Loyal"], "chaos_trigger": "Physical Fatigue"},
+        {"name": "Nicolas Janvier", "role": "CAM", "skill": 75, "traits": ["Creative"], "chaos_trigger": "Low Game Tempo"},
+        {"name": "Sergio Córdova", "role": "ST", "skill": 76, "traits": ["Speedster"], "chaos_trigger": "Goal Drought"},
+        {"name": "Ui-jo Hwang", "role": "ST", "skill": 75, "traits": ["Poacher"], "chaos_trigger": "Lack of Service"},
+        {"name": "Loide Augusto", "role": "LW", "skill": 74, "traits": ["Dribbler"], "chaos_trigger": "Inconsistency"},
+        {"name": "Rony Lopes", "role": "RW/LW", "skill": 78, "traits": ["Skilled", "Ego"], "chaos_trigger": "Bench Duty"},
+        {"name": "Bureković", "role": "LB", "skill": 72, "traits": ["Backup"], "chaos_trigger": "Lack of Minutes"},
+        {"name": "Furkan Bayır", "role": "CB", "skill": 74, "traits": ["Steady"], "chaos_trigger": "Position Error"},
+        {"name": "Bulut Han Aras", "role": "CM", "skill": 70, "traits": ["Young"], "chaos_trigger": "High Pressure"},
+        {"name": "Arda Usluoğlu", "role": "ST", "skill": 69, "traits": ["Prospect"], "chaos_trigger": "Inexperience"}
+      ]
+    },
+    {
+      "id": "RIZ",
+      "name": "Çaykur Rizespor",
+      "prestige": 75,
+      "finances": {
+        "transfer_budget_euro": 3000000,
+        "wage_budget_euro": 8000000,
+        "financial_status": "Stable"
+      },
+      "club_culture": {
+        "fan_pressure": 85,
+        "board_patience": 40,
+        "chaos_factor": 70,
+        "identity": "The Black Sea Hawks - Fierce & Relentless"
+      },
+      "squad": [
+        {"name": "Ivo Grbić", "role": "GK", "skill": 78, "traits": ["Reflexes"], "chaos_trigger": "Defensive Errors"},
+        {"name": "Tarık Çetin", "role": "GK", "skill": 72, "traits": ["Reliable"], "chaos_trigger": "Bench Duty"},
+        {"name": "Husniddin Aliqulov", "role": "CB", "skill": 77, "traits": ["Strong"], "chaos_trigger": "Referee Pressure"},
+        {"name": "Attila Mocsi", "role": "CB", "skill": 75, "traits": ["Solid"], "chaos_trigger": "Aggressive Strikers"},
+        {"name": "Casper Højer", "role": "LB", "skill": 76, "traits": ["Crosser"], "chaos_trigger": "Pace Deficit"},
+        {"name": "Muhammet Taha Şahin", "role": "RB", "skill": 74, "traits": ["Hard Worker"], "chaos_trigger": "Defensive Duties"},
+        {"name": "Giannis Papanikolaou", "role": "CDM", "skill": 76, "traits": ["Fighter"], "chaos_trigger": "Yellow Cards"},
+        {"name": "Ibrahim Olawoyin", "role": "CAM/CM", "skill": 79, "traits": ["Engine", "Skillful"], "chaos_trigger": "Lack of Support"},
+        {"name": "Dal Varesanovic", "role": "CAM", "skill": 77, "traits": ["Technician"], "chaos_trigger": "Physical Play"},
+        {"name": "Altin Zeqiri", "role": "LW", "skill": 75, "traits": ["Direct"], "chaos_trigger": "Final Ball"},
+        {"name": "David Akintola", "role": "RW", "skill": 76, "traits": ["Speed"], "chaos_trigger": "Tactical Role"},
+        {"name": "Ali Sowe", "role": "ST", "skill": 78, "traits": ["Target Man"], "chaos_trigger": "Goal Drought"},
+        {"name": "Martin Minchev", "role": "ST/RW", "skill": 74, "traits": ["Versatile"], "chaos_trigger": "Rotation"},
+        {"name": "Amir Hadziahmetovic", "role": "CM", "skill": 79, "traits": ["Visionary"], "chaos_trigger": "Low Team Spirit"},
+        {"name": "Rachid Ghezzal", "role": "RW", "skill": 79, "traits": ["Magic Left Foot", "Injury Prone"], "chaos_trigger": "Fitness Issues"},
+        {"name": "Halil İbrahim Pehlivan", "role": "LB", "skill": 71, "traits": ["Backup"], "chaos_trigger": "Lack of Minutes"},
+        {"name": "Efe Tecimer", "role": "LW", "skill": 70, "traits": ["Young"], "chaos_trigger": "Pressure"},
+        {"name": "Emirhan Yılmaz", "role": "CM", "skill": 68, "traits": ["Prospect"], "chaos_trigger": "Inexperience"}
+      ]
+    },
+    {
+      "id": "KAY",
+      "name": "Bellona Kayserispor",
+      "prestige": 74,
+      "finances": {
+        "transfer_budget_euro": 0,
+        "wage_budget_euro": 7000000,
+        "financial_status": "Debt-Ridden"
+      },
+      "club_culture": {
+        "fan_pressure": 75,
+        "board_patience": 45,
+        "chaos_factor": 80,
+        "identity": "The Anatolian Star - Resilient & Troubled"
+      },
+      "squad": [
+        {"name": "Bilal Bayazit", "role": "GK", "skill": 80, "traits": ["Shot Stopper", "Value Holder"], "chaos_trigger": "Transfer Offers"},
+        {"name": "Onurcan Piri", "role": "GK", "skill": 72, "traits": ["Professional"], "chaos_trigger": "Bench Duty"},
+        {"name": "Joseph Attamah", "role": "CB/CDM", "skill": 74, "traits": ["Versatile"], "chaos_trigger": "Position Change"},
+        {"name": "Julian Jeanvier", "role": "CB", "skill": 75, "traits": ["Strong"], "chaos_trigger": "Injury Prone"},
+        {"name": "Lionel Carole", "role": "LB", "skill": 75, "traits": ["Experienced"], "chaos_trigger": "Pace Deficit"},
+        {"name": "Gökhan Sazdağı", "role": "RB/RW", "skill": 76, "traits": ["Joker", "Captain"], "chaos_trigger": "Team Morale"},
+        {"name": "Kartal Kayra Yılmaz", "role": "CDM/CM", "skill": 77, "traits": ["Visionary"], "chaos_trigger": "Lack of Support"},
+        {"name": "Mehdi Bourabia", "role": "CM", "skill": 76, "traits": ["Technical"], "chaos_trigger": "Low Tempo"},
+        {"name": "Ali Karimi", "role": "CM/CDM", "skill": 77, "traits": ["Playmaker"], "chaos_trigger": "Referee Disputes"},
+        {"name": "Miguel Cardoso", "role": "LW/RW", "skill": 78, "traits": ["Dribbler"], "chaos_trigger": "Isolation"},
+        {"name": "Duckens Nazon", "role": "ST", "skill": 77, "traits": ["Power"], "chaos_trigger": "Missed Chances"},
+        {"name": "Aylton Boa Morte", "role": "RW", "skill": 75, "traits": ["Speed"], "chaos_trigger": "Final Decision"},
+        {"name": "Stephane Bahoken", "role": "ST", "skill": 74, "traits": ["Veteran"], "chaos_trigger": "Bench Duty"},
+        {"name": "Arif Kocaman", "role": "CB", "skill": 73, "traits": ["Young Prospect"], "chaos_trigger": "Big Stage Pressure"},
+        {"name": "Ramazan Civelek", "role": "RB/RW", "skill": 74, "traits": ["Utility"], "chaos_trigger": "Rotation"},
+        {"name": "Yaw Ackah", "role": "CDM", "skill": 72, "traits": ["Fighter"], "chaos_trigger": "Yellow Cards"},
+        {"name": "Hasan Ali Kaldırım", "role": "LB", "skill": 71, "traits": ["Veteran"], "chaos_trigger": "Fan Criticism"},
+        {"name": "Baran Ali Gezek", "role": "CM", "skill": 69, "traits": ["Youth"], "chaos_trigger": "Inexperience"}
+      ]
+    },
+    {
+      "id": "BOD",
+      "name": "Sipay Bodrumspor",
+      "prestige": 70,
+      "finances": {
+        "transfer_budget_euro": 2000000,
+        "wage_budget_euro": 5500000,
+        "financial_status": "Careful"
+      },
+      "club_culture": {
+        "fan_pressure": 50,
+        "board_patience": 70,
+        "chaos_factor": 40,
+        "identity": "The Aegean Surprise - Hardworking & Brave"
+      },
+      "squad": [
+        {"name": "Diogo Sousa", "role": "GK", "skill": 74, "traits": ["Reliable"], "chaos_trigger": "Crosses"},
+        {"name": "Gökhan Akkan", "role": "GK", "skill": 75, "traits": ["Experienced"], "chaos_trigger": "Defensive Errors"},
+        {"name": "Arlind Ajeti", "role": "CB", "skill": 75, "traits": ["Leader"], "chaos_trigger": "Fast Attackers"},
+        {"name": "Christophe Herelle", "role": "CB", "skill": 74, "traits": ["Strong"], "chaos_trigger": "Tactical Lapse"},
+        {"name": "Ondrej Celustka", "role": "CB/RB", "skill": 73, "traits": ["Veteran"], "chaos_trigger": "Pace"},
+        {"name": "Üzeyir Ergün", "role": "RB", "skill": 74, "traits": ["Local Hero", "Crosser"], "chaos_trigger": "Defensive Gaps"},
+        {"name": "Taylan Antalyalı", "role": "CDM/CM", "skill": 77, "traits": ["Anchor", "National"], "chaos_trigger": "Media Pressure"},
+        {"name": "Musah Mohammed", "role": "CDM", "skill": 73, "traits": ["Physical"], "chaos_trigger": "Yellow Cards"},
+        {"name": "Fredy", "role": "CAM", "skill": 76, "traits": ["Skillful"], "chaos_trigger": "Low Intensity"},
+        {"name": "Taulant Seferi", "role": "LW", "skill": 76, "traits": ["Direct"], "chaos_trigger": "Goal Drought"},
+        {"name": "George Pușcaș", "role": "ST", "skill": 77, "traits": ["Poacher"], "chaos_trigger": "No Supply"},
+        {"name": "Gökdeniz Bayrakdar", "role": "RW/ST", "skill": 75, "traits": ["Young Talent"], "chaos_trigger": "Transfer Interest"},
+        {"name": "Kenan Özer", "role": "RW/LW", "skill": 72, "traits": ["Veteran"], "chaos_trigger": "Substitution"},
+        {"name": "Samet Yalçın", "role": "CM", "skill": 72, "traits": ["Fighter"], "chaos_trigger": "Referee Calls"},
+        {"name": "Ege Bilsel", "role": "LB", "skill": 68, "traits": ["Wonderkid"], "chaos_trigger": "Physical Strength"},
+        {"name": "Celal Dumanlı", "role": "ST", "skill": 70, "traits": ["Club Legend"], "chaos_trigger": "Lack of Minutes"},
+        {"name": "Enes Öğrüce", "role": "CM", "skill": 67, "traits": ["Prospect"], "chaos_trigger": "Big Pressure"},
+        {"name": "Ahmet Aslan", "role": "CDM", "skill": 70, "traits": ["Steady"], "chaos_trigger": "Bench Rotation"}
+      ]
+    },
+    {
+      "id": "ADS",
+      "name": "Adana Demirspor",
+      "prestige": 73,
+      "finances": {
+        "transfer_budget_euro": 0,
+        "wage_budget_euro": 6000000,
+        "financial_status": "Critical"
+      },
+      "club_culture": {
+        "fan_pressure": 90,
+        "board_patience": 35,
+        "chaos_factor": 95,
+        "identity": "Blue Lightnings - High Tension"
+      },
+      "squad": [
+        {"name": "Vedat Karakuş", "role": "GK", "skill": 72, "traits": ["Local"], "chaos_trigger": "Conceding Early"},
+        {"name": "Semih Güler", "role": "CB", "skill": 74, "traits": ["Warrior", "Leader"], "chaos_trigger": "Team Defense"},
+        {"name": "Andreaw Gravillon", "role": "CB", "skill": 77, "traits": ["Physical"], "chaos_trigger": "Financial Issues"},
+        {"name": "Yusuf Sarı", "role": "RW", "skill": 80, "traits": ["Speedster", "Star"], "chaos_trigger": "Transfer Block"},
+        {"name": "Abat Aimbetov", "role": "ST", "skill": 73, "traits": ["Target Man"], "chaos_trigger": "Lack of Service"},
+        {"name": "Arda Kurtulan", "role": "LW", "skill": 72, "traits": ["Prospect"], "chaos_trigger": "Consistency"},
+        {"name": "İzzet Çelik", "role": "CM", "skill": 70, "traits": ["Young"], "chaos_trigger": "Pressure"},
+        {"name": "Salih Kavrazlı", "role": "ST", "skill": 71, "traits": ["Ambitious"], "chaos_trigger": "Bench Duty"},
+        {"name": "Tayfun Aydoğan", "role": "CM", "skill": 73, "traits": ["Technical"], "chaos_trigger": "Low Tempo"},
+        {"name": "Tolga Kalender", "role": "CB", "skill": 69, "traits": ["Young"], "chaos_trigger": "Mistakes"},
+        {"name": "Yusuf Barasi", "role": "ST", "skill": 72, "traits": ["Potential"], "chaos_trigger": "Missed Chances"},
+        {"name": "Bünyamin Aksoy", "role": "RB", "skill": 68, "traits": ["Prospect"], "chaos_trigger": "Inexperience"},
+        {"name": "Ali Yavuz Kol", "role": "LW/ST", "skill": 71, "traits": ["Speed"], "chaos_trigger": "Rotation"},
+        {"name": "Aksel Aktaş", "role": "CM", "skill": 70, "traits": ["Steady"], "chaos_trigger": "Fitness"},
+        {"name": "Ozan Demirbağ", "role": "RW", "skill": 67, "traits": ["Youth"], "chaos_trigger": "Big Stage"},
+        {"name": "Burhan Ersoy", "role": "LB", "skill": 66, "traits": ["Academy"], "chaos_trigger": "Debut Pressure"},
+        {"name": "Mehmet Can", "role": "RB", "skill": 69, "traits": ["Backup"], "chaos_trigger": "Lack of Minutes"},
+        {"name": "Batuhan Er", "role": "ST", "skill": 68, "traits": ["Veteran"], "chaos_trigger": "No Supply"}
+      ]
+    },
+    {
+      "id": "HAT",
+      "name": "Atakaş Hatayspor",
+      "prestige": 72,
+      "finances": {
+        "transfer_budget_euro": 1500000,
+        "wage_budget_euro": 6500000,
+        "financial_status": "Stable"
+      },
+      "club_culture": {
+        "fan_pressure": 60,
+        "board_patience": 55,
+        "chaos_factor": 50,
+        "identity": "The Survivors - Emotional & United"
+      },
+      "squad": [
+        {"name": "Erce Kardeşler", "role": "GK", "skill": 76, "traits": ["Leader", "Veteran"], "chaos_trigger": "Defensive Errors"},
+        {"name": "Guy-Marcelin Kilama", "role": "CB", "skill": 75, "traits": ["Strong"], "chaos_trigger": "Counter Attacks"},
+        {"name": "Francisco Calvo", "role": "CB", "skill": 77, "traits": ["National Player"], "chaos_trigger": "Tactical Disarray"},
+        {"name": "Kamil Ahmet Çörekçi", "role": "RB/LB", "skill": 74, "traits": ["Loyal"], "chaos_trigger": "Loss of Pace"},
+        {"name": "Görkem Sağlam", "role": "CM", "skill": 76, "traits": ["Technician"], "chaos_trigger": "Low Team Spirit"},
+        {"name": "Lamine Diack", "role": "CDM", "skill": 77, "traits": ["Anchor"], "chaos_trigger": "Yellow Cards"},
+        {"name": "Vincent Aboubakar", "role": "ST", "skill": 81, "traits": ["Elite Finisher", "Temperamental"], "chaos_trigger": "Media Reports"},
+        {"name": "Joelson Fernandes", "role": "LW", "skill": 76, "traits": ["Dribbler"], "chaos_trigger": "Physical Play"},
+        {"name": "Rigoberto Rivas", "role": "RW", "skill": 75, "traits": ["Speed"], "chaos_trigger": "Substitution"},
+        {"name": "Carlos Strandberg", "role": "ST", "skill": 75, "traits": ["Power"], "chaos_trigger": "Bench Duty"},
+        {"name": "Rui Pedro", "role": "CAM", "skill": 74, "traits": ["Creative"], "chaos_trigger": "Referee Calls"},
+        {"name": "Chandrel Massanga", "role": "CDM", "skill": 76, "traits": ["Workrate"], "chaos_trigger": "Midfield Control"},
+        {"name": "Burak Yılmaz", "role": "CB", "skill": 69, "traits": ["Young"], "chaos_trigger": "Inexperience"},
+        {"name": "Cengiz Demir", "role": "LB", "skill": 70, "traits": ["Steady"], "chaos_trigger": "Rotation"},
+        {"name": "Selimcan Temel", "role": "CM", "skill": 68, "traits": ["Prospect"], "chaos_trigger": "Pressure"},
+        {"name": "Armin Hodzic", "role": "CAM", "skill": 72, "traits": ["Technique"], "chaos_trigger": "Lack of Minutes"},
+        {"name": "Kerim Alıcı", "role": "RB", "skill": 71, "traits": ["Professional"], "chaos_trigger": "Communication"},
+        {"name": "Funsho Bamgboye", "role": "LW", "skill": 73, "traits": ["Flash"], "chaos_trigger": "Final Decision"}
+      ]
+    },
+    {
+      "id": "GAZ",
+      "name": "Gaziantep FK",
+      "prestige": 73,
+      "finances": {
+        "transfer_budget_euro": 2000000,
+        "wage_budget_euro": 7500000,
+        "financial_status": "Managing"
+      },
+      "club_culture": {
+        "fan_pressure": 65,
+        "board_patience": 50,
+        "chaos_factor": 60,
+        "identity": "Falcons - Tough & Direct"
+      },
+      "squad": [
+        {"name": "Sokratis Dioudis", "role": "GK", "skill": 75, "traits": ["Consistent"], "chaos_trigger": "One-on-Ones"},
+        {"name": "Ertuğrul Ersoy", "role": "CB", "skill": 74, "traits": ["Aggressive"], "chaos_trigger": "Red Cards"},
+        {"name": "Bruno Viana", "role": "CB", "skill": 76, "traits": ["Strong"], "chaos_trigger": "Pace Duels"},
+        {"name": "Emre Taşdemir", "role": "LB", "skill": 73, "traits": ["Injury Prone"], "chaos_trigger": "Fitness"},
+        {"name": "Kacper Kozlowski", "role": "CM/CAM", "skill": 78, "traits": ["Wonderkid"], "chaos_trigger": "Media Hype"},
+        {"name": "Badou Ndiaye", "role": "CDM", "skill": 77, "traits": ["Engine", "Experienced"], "chaos_trigger": "Game Intensity"},
+        {"name": "Alexandru Maxim", "role": "CAM", "skill": 80, "traits": ["Magician", "Leader"], "chaos_trigger": "Tactical Role"},
+        {"name": "Deian Sorescu", "role": "RW/RB", "skill": 76, "traits": ["Versatile"], "chaos_trigger": "Position Shuffle"},
+        {"name": "Kenan Kodro", "role": "ST", "skill": 76, "traits": ["Finisher"], "chaos_trigger": "No Supply"},
+        {"name": "David Okereke", "role": "ST/LW", "skill": 77, "traits": ["Speedster"], "chaos_trigger": "Goal Drought"},
+        {"name": "Christopher Lungoyi", "role": "LW", "skill": 74, "traits": ["Skilled"], "chaos_trigger": "Decision Making"},
+        {"name": "Ogün Özçiçek", "role": "CDM/CM", "skill": 75, "traits": ["Local Power"], "chaos_trigger": "Referee Pressure"},
+        {"name": "Ömürcan Artan", "role": "RB", "skill": 71, "traits": ["Hard Worker"], "chaos_trigger": "Defensive Duty"},
+        {"name": "Salem M'Bakata", "role": "RB/LB", "skill": 73, "traits": ["Athlete"], "chaos_trigger": "Tactical Errors"},
+        {"name": "Mustafa Eskihellaç", "role": "RW/LW", "skill": 75, "traits": ["Dribbler"], "chaos_trigger": "Rotation"},
+        {"name": "Halil Dervişoğlu", "role": "ST/CAM", "skill": 75, "traits": ["Technical"], "chaos_trigger": "Lack of Confidence"},
+        {"name": "Enric Saborit", "role": "CB/LB", "skill": 74, "traits": ["Experienced"], "chaos_trigger": "Loss of Pace"},
+        {"name": "Cyril Mandouki", "role": "CDM", "skill": 74, "traits": ["Anchor"], "chaos_trigger": "High Press"}
+      ]
+    },
+    {
+      "id": "SIV",
+      "name": "Sivasspor",
+      "prestige": 71,
+      "finances": {
+        "transfer_budget_euro": 2500000,
+        "wage_budget_euro": 7000000,
+        "financial_status": "Stable"
+      },
+      "club_culture": {
+        "fan_pressure": 70,
+        "board_patience": 50,
+        "chaos_factor": 55,
+        "identity": "Yiğidolar - Hardworking & Disciplined"
+      },
+      "squad": [
+        {"name": "Muammer Yıldırım", "role": "GK", "skill": 73, "traits": ["Experienced"], "chaos_trigger": "Defensive Errors"},
+        {"name": "Ali Şaşal Vural", "role": "GK", "skill": 71, "traits": ["Local"], "chaos_trigger": "Big Mistakes"},
+        {"name": "Fernando Andrade", "role": "CB", "skill": 76, "traits": ["Strong"], "chaos_trigger": "Pace Duels"},
+        {"name": "Ahmet Canbaz", "role": "CB", "skill": 74, "traits": ["Warrior"], "chaos_trigger": "Tactical Lapse"},
+        {"name": "Efe Tatlı", "role": "LB", "skill": 72, "traits": ["Speed"], "chaos_trigger": "Defensive Duties"},
+        {"name": "Uğur Çiftçi", "role": "RB", "skill": 73, "traits": ["Workrate"], "chaos_trigger": "Crossing"},
+        {"name": "Yusuf Akçiçek", "role": "CDM", "skill": 75, "traits": ["Anchor"], "chaos_trigger": "Yellow Cards"},
+        {"name": "Zeki Yavru", "role": "CM", "skill": 74, "traits": ["Deadball Specialist"], "chaos_trigger": "Team Morale"},
+        {"name": "Arda Özcan", "role": "CAM", "skill": 73, "traits": ["Creative"], "chaos_trigger": "Low Tempo"},
+        {"name": "Manuel Da Costa", "role": "RW", "skill": 74, "traits": ["Dribbler"], "chaos_trigger": "Inconsistency"},
+        {"name": "Nouha Dicko", "role": "ST", "skill": 75, "traits": ["Target Man"], "chaos_trigger": "Goal Drought"},
+        {"name": "Mert Hakan Yandaş", "role": "LW", "skill": 72, "traits": ["Technical"], "chaos_trigger": "Physical Play"},
+        {"name": "Emrehan Gedikli", "role": "CM", "skill": 71, "traits": ["Young Talent"], "chaos_trigger": "Pressure"},
+        {"name": "Furkan Korkmaz", "role": "RB", "skill": 70, "traits": ["Backup"], "chaos_trigger": "Lack of Minutes"},
+        {"name": "Berk İsmail Ünsal", "role": "CB", "skill": 69, "traits": ["Prospect"], "chaos_trigger": "Inexperience"},
+        {"name": "Kerim Keskin", "role": "ST", "skill": 68, "traits": ["Young"], "chaos_trigger": "Big Stage"}
+      ]
+    },
+    {
+      "id": "KAS",
+      "name": "Kasımpaşa",
+      "prestige": 72,
+      "finances": {
+        "transfer_budget_euro": 3000000,
+        "wage_budget_euro": 8000000,
+        "financial_status": "Managing"
+      },
+      "club_culture": {
+        "fan_pressure": 75,
+        "board_patience": 48,
+        "chaos_factor": 60,
+        "identity": "Kartal - Urban & Resilient"
+      },
+      "squad": [
+        {"name": "Giorgi Loria", "role": "GK", "skill": 74, "traits": ["Reflexes"], "chaos_trigger": "Defensive Communication"},
+        {"name": "Berkay Dabanlı", "role": "GK", "skill": 70, "traits": ["Young"], "chaos_trigger": "Big Mistakes"},
+        {"name": "Duško Tošić", "role": "CB", "skill": 75, "traits": ["Experienced"], "chaos_trigger": "High Line Defense"},
+        {"name": "Alperen Babacan", "role": "CB", "skill": 73, "traits": ["Strong"], "chaos_trigger": "Injury Prone"},
+        {"name": "Sadık Çiftpınar", "role": "LB", "skill": 74, "traits": ["Technical"], "chaos_trigger": "Pace Deficit"},
+        {"name": "Mert Çetin", "role": "RB", "skill": 72, "traits": ["Versatile"], "chaos_trigger": "Position Change"},
+        {"name": "Taha Aydın", "role": "CDM", "skill": 76, "traits": ["Engine"], "chaos_trigger": "Midfield Battle"},
+        {"name": "Harun Tekin", "role": "CM", "skill": 74, "traits": ["Playmaker"], "chaos_trigger": "Low Support"},
+        {"name": "Mertan Caner Aktaş", "role": "CAM", "skill": 73, "traits": ["Vision"], "chaos_trigger": "Tactical Restrictions"},
+        {"name": "İbrahim Halil Uyanık", "role": "RW", "skill": 75, "traits": ["Speed"], "chaos_trigger": "Final Ball"},
+        {"name": "Diogo Figueiras", "role": "LW", "skill": 74, "traits": ["Dribbler"], "chaos_trigger": "Physical Marking"},
+        {"name": "Mahir Emre Aşkan", "role": "ST", "skill": 76, "traits": ["Finisher"], "chaos_trigger": "Missed Chances"},
+        {"name": "Balkan Şimşek", "role": "ST", "skill": 73, "traits": ["Hard Worker"], "chaos_trigger": "Bench Duty"},
+        {"name": "Samed Onur", "role": "CM", "skill": 71, "traits": ["Young Talent"], "chaos_trigger": "Inexperience"},
+        {"name": "Eren Bülbül", "role": "RB", "skill": 70, "traits": ["Backup"], "chaos_trigger": "Lack of Minutes"},
+        {"name": "Muhammed Bölükbaşı", "role": "CB", "skill": 69, "traits": ["Prospect"], "chaos_trigger": "Big Stage Pressure"},
+        {"name": "Kerim Kalyoncu", "role": "CAM", "skill": 68, "traits": ["Potential"], "chaos_trigger": "High Expectations"}
+      ]
+    }
+  ]
+}

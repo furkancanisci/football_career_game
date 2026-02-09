@@ -1,0 +1,152 @@
+[
+  {
+    "week": 1,
+    "bye_team": "KAY",
+    "matches": [
+      {"home": "GS", "away": "HAT", "played": false, "score": null, "time": "20:00"},
+      {"home": "FB", "away": "ADS", "played": false, "score": null, "time": "19:00"},
+      {"home": "BJK", "away": "SAM", "played": false, "score": null, "time": "19:00"},
+      {"home": "TS", "away": "EYUP", "played": false, "score": null, "time": "16:00"},
+      {"home": "IBFK", "away": "RIZ", "played": false, "score": null, "time": "13:30"},
+      {"home": "ANT", "away": "GOZ", "played": false, "score": null, "time": "16:00"},
+      {"home": "BOD", "away": "KON", "played": false, "score": null, "time": "13:30"},
+      {"home": "ALA", "away": "GAZ", "played": false, "score": null, "time": "19:00"},
+      {"home": "SIV", "away": "KAS", "played": false, "score": null, "time": "20:00"}
+    ]
+  },
+  {
+    "week": 2,
+    "bye_team": "FB",
+    "matches": [
+      {"home": "HAT", "away": "BJK", "played": false, "score": null, "time": "20:00"},
+      {"home": "ADS", "away": "TS", "played": false, "score": null, "time": "19:00"},
+      {"home": "SAM", "away": "IBFK", "played": false, "score": null, "time": "19:00"},
+      {"home": "EYUP", "away": "ANT", "played": false, "score": null, "time": "16:00"},
+      {"home": "RIZ", "away": "BOD", "played": false, "score": null, "time": "13:30"},
+      {"home": "GOZ", "away": "ALA", "played": false, "score": null, "time": "16:00"},
+      {"home": "KON", "away": "GAZ", "played": false, "score": null, "time": "13:30"},
+      {"home": "SIV", "away": "GS", "played": false, "score": null, "time": "20:00"},
+      {"home": "KAS", "away": "KAY", "played": false, "score": null, "time": "17:00"}
+    ]
+  },
+  {
+    "week": 3,
+    "bye_team": "BJK",
+    "matches": [
+      {"home": "TS", "away": "HAT", "played": false, "score": null, "time": "20:00"},
+      {"home": "IBFK", "away": "ADS", "played": false, "score": null, "time": "19:00"},
+      {"home": "ANT", "away": "SAM", "played": false, "score": null, "time": "19:00"},
+      {"home": "BOD", "away": "EYUP", "played": false, "score": null, "time": "16:00"},
+      {"home": "ALA", "away": "RIZ", "played": false, "score": null, "time": "13:30"},
+      {"home": "GAZ", "away": "GOZ", "played": false, "score": null, "time": "16:00"},
+      {"home": "GS", "away": "KON", "played": false, "score": null, "time": "20:00"},
+      {"home": "KAY", "away": "SIV", "played": false, "score": null, "time": "17:00"},
+      {"home": "KAS", "away": "FB", "played": false, "score": null, "time": "20:00"}
+    ]
+  },
+  {
+    "week": 4,
+    "bye_team": "TS",
+    "matches": [
+      {"home": "HAT", "away": "IBFK", "played": false, "score": null, "time": "20:00"},
+      {"home": "ADS", "away": "ANT", "played": false, "score": null, "time": "19:00"},
+      {"home": "SAM", "away": "BOD", "played": false, "score": null, "time": "19:00"},
+      {"home": "EYUP", "away": "ALA", "played": false, "score": null, "time": "16:00"},
+      {"home": "RIZ", "away": "GAZ", "played": false, "score": null, "time": "13:30"},
+      {"home": "GOZ", "away": "GS", "played": false, "score": null, "time": "16:00"},
+      {"home": "KON", "away": "KAY", "played": false, "score": null, "time": "13:30"},
+      {"home": "SIV", "away": "KAS", "played": false, "score": null, "time": "20:00"},
+      {"home": "FB", "away": "BJK", "played": false, "score": null, "time": "20:00"}
+    ]
+  },
+  {
+    "week": 5,
+    "bye_team": "IBFK",
+    "matches": [
+      {"home": "ANT", "away": "HAT", "played": false, "score": null, "time": "20:00"},
+      {"home": "BOD", "away": "ADS", "played": false, "score": null, "time": "19:00"},
+      {"home": "ALA", "away": "SAM", "played": false, "score": null, "time": "19:00"},
+      {"home": "GAZ", "away": "EYUP", "played": false, "score": null, "time": "16:00"},
+      {"home": "GS", "away": "RIZ", "played": false, "score": null, "time": "20:00"},
+      {"home": "KAY", "away": "GOZ", "played": false, "score": null, "time": "17:00"},
+      {"home": "KAS", "away": "KON", "played": false, "score": null, "time": "20:00"},
+      {"home": "BJK", "away": "SIV", "played": false, "score": null, "time": "20:00"},
+      {"home": "FB", "away": "TS", "played": false, "score": null, "time": "19:00"}
+    ]
+  },
+  {
+    "week": 6,
+    "bye_team": "ADS",
+    "matches": [
+      {"home": "HAT", "away": "BOD", "played": false, "score": null, "time": "20:00"},
+      {"home": "SAM", "away": "ANT", "played": false, "score": null, "time": "19:00"},
+      {"home": "EYUP", "away": "ALA", "played": false, "score": null, "time": "16:00"},
+      {"home": "RIZ", "away": "GAZ", "played": false, "score": null, "time": "13:30"},
+      {"home": "GOZ", "away": "GS", "played": false, "score": null, "time": "16:00"},
+      {"home": "KON", "away": "KAY", "played": false, "score": null, "time": "13:30"},
+      {"home": "SIV", "away": "KAS", "played": false, "score": null, "time": "20:00"},
+      {"home": "BJK", "away": "FB", "played": false, "score": null, "time": "20:00"},
+      {"home": "TS", "away": "IBFK", "played": false, "score": null, "time": "19:00"}
+    ]
+  },
+  {
+    "week": 7,
+    "bye_team": "ANT",
+    "matches": [
+      {"home": "BOD", "away": "HAT", "played": false, "score": null, "time": "20:00"},
+      {"home": "ALA", "away": "SAM", "played": false, "score": null, "time": "19:00"},
+      {"home": "GAZ", "away": "EYUP", "played": false, "score": null, "time": "16:00"},
+      {"home": "GS", "away": "RIZ", "played": false, "score": null, "time": "20:00"},
+      {"home": "KAY", "away": "GOZ", "played": false, "score": null, "time": "17:00"},
+      {"home": "KAS", "away": "KON", "played": false, "score": null, "time": "20:00"},
+      {"home": "FB", "away": "SIV", "played": false, "score": null, "time": "20:00"},
+      {"home": "IBFK", "away": "TS", "played": false, "score": null, "time": "19:00"},
+      {"home": "ADS", "away": "BJK", "played": false, "score": null, "time": "19:00"}
+    ]
+  },
+  {
+    "week": 8,
+    "bye_team": "BOD",
+    "matches": [
+      {"home": "HAT", "away": "ALA", "played": false, "score": null, "time": "20:00"},
+      {"home": "SAM", "away": "GAZ", "played": false, "score": null, "time": "19:00"},
+      {"home": "EYUP", "away": "GS", "played": false, "score": null, "time": "16:00"},
+      {"home": "RIZ", "away": "KAY", "played": false, "score": null, "time": "13:30"},
+      {"home": "GOZ", "away": "KAS", "played": false, "score": null, "time": "16:00"},
+      {"home": "KON", "away": "KON", "played": false, "score": null, "time": "13:30"},
+      {"home": "SIV", "away": "FB", "played": false, "score": null, "time": "20:00"},
+      {"home": "BJK", "away": "IBFK", "played": false, "score": null, "time": "20:00"},
+      {"home": "TS", "away": "ADS", "played": false, "score": null, "time": "19:00"}
+    ]
+  },
+  {
+    "week": 9,
+    "bye_team": "ALA",
+    "matches": [
+      {"home": "GAZ", "away": "HAT", "played": false, "score": null, "time": "20:00"},
+      {"home": "GS", "away": "SAM", "played": false, "score": null, "time": "20:00"},
+      {"home": "KAY", "away": "RIZ", "played": false, "score": null, "time": "17:00"},
+      {"home": "KAS", "away": "GOZ", "played": false, "score": null, "time": "20:00"},
+      {"home": "FB", "away": "SIV", "played": false, "score": null, "time": "20:00"},
+      {"home": "IBFK", "away": "BJK", "played": false, "score": null, "time": "20:00"},
+      {"home": "ADS", "away": "TS", "played": false, "score": null, "time": "19:00"},
+      {"home": "ANT", "away": "BOD", "played": false, "score": null, "time": "19:00"},
+      {"home": "EYUP", "away": "KON", "played": false, "score": null, "time": "16:00"}
+    ]
+  },
+  {
+    "week": 10,
+    "bye_team": "GAZ",
+    "matches": [
+      {"home": "HAT", "away": "GS", "played": false, "score": null, "time": "20:00"},
+      {"home": "SAM", "away": "KAY", "played": false, "score": null, "time": "19:00"},
+      {"home": "RIZ", "away": "KAS", "played": false, "score": null, "time": "13:30"},
+      {"home": "GOZ", "away": "KON", "played": false, "score": null, "time": "16:00"},
+      {"home": "SIV", "away": "FB", "played": false, "score": null, "time": "20:00"},
+      {"home": "BJK", "away": "IBFK", "played": false, "score": null, "time": "20:00"},
+      {"home": "TS", "away": "ADS", "played": false, "score": null, "time": "19:00"},
+      {"home": "BOD", "away": "ANT", "played": false, "score": null, "time": "19:00"},
+      {"home": "ALA", "away": "EYUP", "played": false, "score": null, "time": "19:00"}
+    ]
+  }
+]

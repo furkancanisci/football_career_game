@@ -1,0 +1,63 @@
+{
+  "leagues": [
+    {
+      "name": "Trendyol Süper Lig",
+      "season": "2025-2026",
+      "teams": [
+        {
+          "name": "Galatasaray",
+          "budget": 25000000,
+          "reputation": 85,
+          "players": [
+            {"name": "Victor Osimhen", "pos": "ST", "ovr": 89, "age": 27, "ego": 85, "ambition": 90, "discipline": 80, "loyalty": 60, "leadership": 75},
+            {"name": "Mauro Icardi", "pos": "ST", "ovr": 87, "age": 32, "ego": 95, "ambition": 75, "discipline": 70, "loyalty": 45, "leadership": 80},
+            {"name": "Leroy Sané", "pos": "RW", "ovr": 86, "age": 30, "ego": 88, "ambition": 82, "discipline": 75, "loyalty": 50, "leadership": 70},
+            {"name": "İlkay Gündoğan", "pos": "CM", "ovr": 85, "age": 35, "ego": 40, "ambition": 70, "discipline": 95, "loyalty": 85, "leadership": 92},
+            {"name": "Fernando Muslera", "pos": "GK", "ovr": 82, "age": 39, "ego": 30, "ambition": 40, "discipline": 90, "loyalty": 99, "leadership": 98},
+            {"name": "Sacha Boey", "pos": "RB", "ovr": 78, "age": 24, "ego": 65, "ambition": 80, "discipline": 85, "loyalty": 70, "leadership": 60},
+            {"name": "Abdülkerim Bardakcı", "pos": "CB", "ovr": 77, "age": 28, "ego": 50, "ambition": 70, "discipline": 88, "loyalty": 80, "leadership": 65},
+            {"name": "Nicolás Tagliafico", "pos": "LB", "ovr": 76, "age": 32, "ego": 60, "ambition": 65, "discipline": 85, "loyalty": 75, "leadership": 70}
+          ]
+        },
+        {
+          "name": "Fenerbahçe",
+          "budget": 22000000,
+          "reputation": 84,
+          "players": [
+            {"name": "Jhon Durán", "pos": "ST", "ovr": 82, "age": 22, "ego": 80, "ambition": 95, "discipline": 75, "loyalty": 40, "leadership": 55},
+            {"name": "Matteo Guendouzi", "pos": "CM", "ovr": 84, "age": 26, "ego": 90, "ambition": 85, "discipline": 65, "loyalty": 45, "leadership": 60},
+            {"name": "İsmail Yüksek", "pos": "CDM", "ovr": 80, "age": 27, "ego": 45, "ambition": 80, "discipline": 90, "loyalty": 85, "leadership": 70},
+            {"name": "Ferdi Kadıoğlu", "pos": "LB", "ovr": 82, "age": 26, "ego": 35, "ambition": 75, "discipline": 92, "loyalty": 88, "leadership": 65},
+            {"name": "Dominik Livaković", "pos": "GK", "ovr": 81, "age": 31, "ego": 55, "ambition": 70, "discipline": 88, "loyalty": 75, "leadership": 75},
+            {"name": "Rodrigo Becão", "pos": "CB", "ovr": 79, "age": 28, "ego": 60, "ambition": 75, "discipline": 85, "loyalty": 70, "leadership": 68},
+            {"name": "Sebastian Szymański", "pos": "RW", "ovr": 81, "age": 26, "ego": 70, "ambition": 85, "discipline": 80, "loyalty": 65, "leadership": 60}
+          ]
+        },
+        {
+          "name": "Beşiktaş",
+          "budget": 18000000,
+          "reputation": 82,
+          "players": [
+            {"name": "Orkun Kökçü", "pos": "CM", "ovr": 83, "age": 25, "ego": 60, "ambition": 88, "discipline": 85, "loyalty": 55, "leadership": 75},
+            {"name": "Semih Kılıçsoy", "pos": "ST", "ovr": 79, "age": 20, "ego": 50, "ambition": 95, "discipline": 88, "loyalty": 90, "leadership": 45},
+            {"name": "Gedson Fernandes", "pos": "CM", "ovr": 82, "age": 27, "ego": 55, "ambition": 80, "discipline": 82, "loyalty": 70, "leadership": 65},
+            {"name": "Mert Günok", "pos": "GK", "ovr": 78, "age": 36, "ego": 40, "ambition": 50, "discipline": 92, "loyalty": 85, "leadership": 80},
+            {"name": "Arthur Masuaku", "pos": "LB", "ovr": 76, "age": 32, "ego": 75, "ambition": 60, "discipline": 70, "loyalty": 60, "leadership": 55},
+            {"name": "Nicolás Palacios", "pos": "CB", "ovr": 75, "age": 25, "ego": 45, "ambition": 75, "discipline": 88, "loyalty": 75, "leadership": 60}
+          ]
+        },
+        {
+          "name": "Trabzonspor",
+          "budget": 12000000,
+          "reputation": 80,
+          "players": [
+            {"name": "André Onana", "pos": "GK", "ovr": 83, "age": 29, "ego": 85, "ambition": 75, "discipline": 70, "loyalty": 35, "leadership": 80},
+            {"name": "Uğurcan Çakır", "pos": "GK", "ovr": 81, "age": 29, "ego": 60, "ambition": 70, "discipline": 90, "loyalty": 95, "leadership": 75},
+            {"name": "Batuhan Kör", "pos": "ST", "ovr": 77, "age": 24, "ego": 70, "ambition": 85, "discipline": 75, "loyalty": 80, "leadership": 60},
+            {"name": "Eren Elmalı", "pos": "LB", "ovr": 74, "age": 22, "ego": 55, "ambition": 80, "discipline": 85, "loyalty": 85, "leadership": 50}
+          ]
+        }
+      ]
+    }
+  ]
+}
